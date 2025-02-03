@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "id": 101,
+      "name": "Claudia Gray",
+      "nationality": "American",
+      "awards_won": 2,
+      "profile_image": "https://example.com/claudia_gray.jpg"
+    },
+    {
+      "id": 102,
+      "name": "J.K. Rowling",
+      "nationality": "British",
+      "awards_won": 15,
+      "profile_image": "https://example.com/jk_rowling.jpg"
+    }
+  ]
+}
