@@ -1,0 +1,184 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Duizend stukjes van jou",
+        "description": "Een meeslepende roman over liefde, verlies en parallelle universums.",
+        "pages": 368,
+        "available": true,
+        "release_date": "2014-11-04",
+        "cover_image": "https://example.com/duizend_stukjes_van_jou.jpg",
+        "genre": "Young Adult",
+        "tags": ["Sci-Fi", "Romance", "Parallel Universes"],
+        "author": {
+          "id": 101,
+          "name": "Claudia Gray",
+          "nationality": "American",
+          "awards_won": 2,
+          "profile_image": "https://example.com/claudia_gray.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Tienduizend hemels boven jou",
+        "description": "Het tweede deel in de Firebird-serie met een nog groter avontuur.",
+        "pages": 432,
+        "available": true,
+        "release_date": "2015-11-03",
+        "cover_image": "https://example.com/tienduizend_hemels.jpg",
+        "genre": "Young Adult",
+        "tags": ["Adventure", "Time Travel", "Romance"],
+        "author": {
+          "id": 101,
+          "name": "Claudia Gray",
+          "nationality": "American",
+          "awards_won": 2,
+          "profile_image": "https://example.com/claudia_gray.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Een miljoen werelden met jou",
+        "description": "Het spannende slotstuk van de Firebird-trilogie.",
+        "pages": 432,
+        "available": true,
+        "release_date": "2016-11-01",
+        "cover_image": "https://example.com/een_miljoen_werelden.jpg",
+        "genre": "Young Adult",
+        "tags": ["Fantasy", "Romance", "Adventure"],
+        "author": {
+          "id": 101,
+          "name": "Claudia Gray",
+          "nationality": "American",
+          "awards_won": 2,
+          "profile_image": "https://example.com/claudia_gray.jpg"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Harry Potter en de Steen der Wijzen",
+        "description": "Het eerste avontuur van Harry Potter op Zweinstein.",
+        "pages": 223,
+        "available": true,
+        "release_date": "1997-06-26",
+        "cover_image": "https://example.com/harry_potter_1.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "School", "Adventure"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Harry Potter en de Geheime Kamer",
+        "description": "Harry onderzoekt de mysterieuze aanvallen op Zweinstein.",
+        "pages": 251,
+        "available": true,
+        "release_date": "1998-07-02",
+        "cover_image": "https://example.com/harry_potter_2.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Mystery", "Adventure"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+    },
+  {
+        "id": 6,
+        "title": "Harry Potter en de Vuurbeker",
+        "description": "Harry neemt deel aan het Toverschool Toernooi.",
+        "pages": 636,
+        "available": true,
+        "release_date": "2000-07-08",
+        "cover_image": "https://example.com/harry_potter_4.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Tournament", "Adventure"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Harry Potter en de Orde van de Feniks",
+        "description": "Harry ontdekt de geheime Orde die tegen Voldemort vecht.",
+        "pages": 766,
+        "available": true,
+        "release_date": "2003-06-21",
+        "cover_image": "https://example.com/harry_potter_5.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Resistance", "War"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Harry Potter en de Halfbloed Prins",
+        "description": "Harry ontdekt de ware identiteit van de Halfbloed Prins.",
+        "pages": 607,
+        "available": true,
+        "release_date": "2005-07-16",
+        "cover_image": "https://example.com/harry_potter_6.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Dark Arts", "Mystery"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Harry Potter en de Relieken van de Dood",
+        "description": "Harry's laatste gevecht tegen Voldemort.",
+        "pages": 607,
+        "available": true,
+        "release_date": "2007-07-21",
+        "cover_image": "https://example.com/harry_potter_7.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Final Battle", "Sacrifice"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Harry Potter en het Vervloekte Kind",
+        "description": "Harry's zoon Albus worstelt met zijn erfenis.",
+        "pages": 343,
+        "available": true,
+        "release_date": "2016-07-31",
+        "cover_image": "https://example.com/harry_potter_8.jpg",
+        "genre": "Fantasy",
+        "tags": ["Magic", "Next Generation", "Time Travel"],
+        "author": {
+          "id": 102,
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "awards_won": 15,
+          "profile_image": "https://example.com/jk_rowling.jpg"
+        }
+      }
+    ]
+  }
