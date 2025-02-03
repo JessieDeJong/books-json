@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Duizend stukjes van jou",
-    "description": "Een meeslepende roman over liefde, verlies en parallelle universums.",
+    "title": "Thousand Pieces of You",
+    "description": "A captivating novel about love, loss, and parallel universes.",
     "pages": 368,
     "available": true,
     "release_date": "2014-11-04",
@@ -14,13 +14,13 @@
       "name": "Claudia Gray",
       "nationality": "American",
       "awards_won": 2,
-      "profile_image": "https://example.com/claudia_gray.jpg"
+      "profile_image": "https://en.wikipedia.org/wiki/Claudia_Gray#/media/File:Claudia_Gray_2017.jpg"
     }
   },
   {
     "id": 2,
-    "title": "Tienduizend hemels boven jou",
-    "description": "Het tweede deel in de Firebird-serie met een nog groter avontuur.",
+    "title": "Ten Thousand Skies Above You",
+    "description": "The second installment in the Firebird series with an even bigger adventure.",
     "pages": 432,
     "available": true,
     "release_date": "2015-11-03",
@@ -32,13 +32,13 @@
       "name": "Claudia Gray",
       "nationality": "American",
       "awards_won": 2,
-      "profile_image": "https://example.com/claudia_gray.jpg"
+      "profile_image": "https://en.wikipedia.org/wiki/Claudia_Gray#/media/File:Claudia_Gray_2017.jpg"
     }
   },
   {
     "id": 3,
-    "title": "Een miljoen werelden met jou",
-    "description": "Het spannende slotstuk van de Firebird-trilogie.",
+    "title": "A Million Worlds with You",
+    "description": "The thrilling conclusion to the Firebird trilogy.",
     "pages": 432,
     "available": true,
     "release_date": "2016-11-01",
@@ -50,13 +50,13 @@
       "name": "Claudia Gray",
       "nationality": "American",
       "awards_won": 2,
-      "profile_image": "https://example.com/claudia_gray.jpg"
+      "profile_image": "https://en.wikipedia.org/wiki/Claudia_Gray#/media/File:Claudia_Gray_2017.jpg"
     }
   },
   {
     "id": 4,
-    "title": "Harry Potter en de Steen der Wijzen",
-    "description": "Het eerste avontuur van Harry Potter op Zweinstein.",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "description": "Harry Potter's first adventure at Hogwarts.",
     "pages": 223,
     "available": true,
     "release_date": "1997-06-26",
@@ -68,13 +68,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 5,
-    "title": "Harry Potter en de Geheime Kamer",
-    "description": "Harry onderzoekt de mysterieuze aanvallen op Zweinstein.",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "Harry investigates the mysterious attacks at Hogwarts.",
     "pages": 251,
     "available": true,
     "release_date": "1998-07-02",
@@ -86,13 +86,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 6,
-    "title": "Harry Potter en de Vuurbeker",
-    "description": "Harry neemt deel aan het Toverschool Toernooi.",
+    "title": "Harry Potter and the Goblet of Fire",
+    "description": "Harry participates in the Triwizard Tournament.",
     "pages": 636,
     "available": true,
     "release_date": "2000-07-08",
@@ -104,13 +104,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 7,
-    "title": "Harry Potter en de Orde van de Feniks",
-    "description": "Harry ontdekt de geheime Orde die tegen Voldemort vecht.",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "description": "Harry discovers the secret Order that fights against Voldemort.",
     "pages": 766,
     "available": true,
     "release_date": "2003-06-21",
@@ -122,13 +122,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 8,
-    "title": "Harry Potter en de Halfbloed Prins",
-    "description": "Harry ontdekt de ware identiteit van de Halfbloed Prins.",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "description": "Harry uncovers the true identity of the Half-Blood Prince.",
     "pages": 607,
     "available": true,
     "release_date": "2005-07-16",
@@ -140,13 +140,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 9,
-    "title": "Harry Potter en de Relieken van de Dood",
-    "description": "Harry's laatste gevecht tegen Voldemort.",
+    "title": "Harry Potter and the Deathly Hallows",
+    "description": "Harry's final battle against Voldemort.",
     "pages": 607,
     "available": true,
     "release_date": "2007-07-21",
@@ -158,13 +158,13 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   },
   {
     "id": 10,
-    "title": "Harry Potter en het Vervloekte Kind",
-    "description": "Harry's zoon Albus worstelt met zijn erfenis.",
+    "title": "Harry Potter and the Cursed Child",
+    "description": "Harry's son Albus struggles with his legacy.",
     "pages": 343,
     "available": true,
     "release_date": "2016-07-31",
@@ -176,7 +176,7 @@
       "name": "J.K. Rowling",
       "nationality": "British",
       "awards_won": 15,
-      "profile_image": "https://example.com/jk_rowling.jpg"
+      "profile_image": "https://nl.wikipedia.org/wiki/J.K._Rowling#/media/Bestand:J._K._Rowling_2010.jpg"
     }
   }
 ]
