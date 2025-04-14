@@ -152,7 +152,7 @@
     "release_date": "2007-07-21",
     "cover_image": "https://raw.githubusercontent.com/JessieDeJong/books-json/refs/heads/main/img/Book_09.jfif",
     "genre": "Fantasy",
-    "tags": ["Magic", "Final Battle", "Thriller"],
+    "tags": ["Dark Arts", "War", "Thriller"],
     "author": {
       "id": 102,
       "name": "J.K. Rowling",
@@ -170,7 +170,7 @@
     "release_date": "2016-07-31",
     "cover_image": "https://raw.githubusercontent.com/JessieDeJong/books-json/refs/heads/main/img/Book_10.jfif",
     "genre": "Fantasy",
-    "tags": ["Magic", "Next Generation", "Time Travel"],
+    "tags": ["Magic", "Fantasy", "Time Travel"],
     "author": {
       "id": 102,
       "name": "J.K. Rowling",
